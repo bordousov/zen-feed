@@ -2,8 +2,9 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 <channel>
   <title>Код Судьбы</title>
-  <link>https://example.com</link>
+  <link>https://bordousov.github.io/zen-feed/</link>
   <description>Гороскопы и нумерология по дате рождения</description>
-  <atom:link href="https://example.com/feed.xml" rel="self" type="application/rss+xml" />
+  <atom:link href="https://bordousov.github.io/zen-feed/" rel="self" type="application/rss+xml" />
+  <!-- Здесь будут <item> -->
 </channel>
 </rss>
