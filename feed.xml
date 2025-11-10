@@ -4,7 +4,7 @@
   <title>Код Судьбы</title>
   <link>https://bordousov.github.io/zen-feed/</link>
   <description>Гороскопы и нумерология по дате рождения</description>
-  <atom:link href="https://bordousov.github.io/zen-feed/" rel="self" type="application/rss+xml" />
-  <!-- Здесь будут <item> -->
+  <atom:link href="https://bordousov.github.io/zen-feed/feed.xml" rel="self" type="application/rss+xml" />
+  <!-- Здесь могут быть <item> -->
 </channel>
 </rss>
